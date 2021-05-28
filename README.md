@@ -22,7 +22,7 @@ $ npm install @jonny1994/craco-sass-resources-loader --save-dev
 string pointing the scss files your want to load before any scss/sass file.
 
 ```js
-const sassResourcesLoader = require('craco-sass-resources-loader');
+const sassResourcesLoader = require('@jonny1994/craco-sass-resources-loader');
 
 module.exports = {
   plugins: [
